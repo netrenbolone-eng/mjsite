@@ -55,8 +55,8 @@ const LEGENDS = [
   {
     id: '01',
     portrait: '/legends/legend-01.jpg',
-    name: 'Страж перевала',
-    description: 'Не отступает перед трудным маршрутом и первым замечает опасность.',
+    name: 'Мастер тихих решений',
+    description: 'Находит выход там, где остальные видят только тупик.',
     className: 'legend-west',
   },
   {
@@ -69,8 +69,8 @@ const LEGENDS = [
   {
     id: '03',
     portrait: '/legends/legend-03.jpg',
-    name: 'Мастер тихих решений',
-    description: 'Находит выход там, где остальные видят только тупик.',
+    name: 'Страж перевала',
+    description: 'Не отступает перед трудным маршрутом и первым замечает опасность.',
     className: 'legend-south-west',
   },
   {
