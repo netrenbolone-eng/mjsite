@@ -53,28 +53,28 @@ const CARDS = [
 
 const LEGENDS = [
   {
-    id: '01',
+    id: 'Maxyta',
     portrait: '/legends/legend-01.jpg',
     name: 'Мастер тихих решений',
     description: 'Находит выход там, где остальные видят только тупик.',
     className: 'legend-west',
   },
   {
-    id: '02',
+    id: 'Pastula',
     portrait: '/legends/legend-02.jpg',
     name: 'Хранитель рубежа',
     description: 'Сохраняет хладнокровие и прикрывает тех, кто рядом.',
     className: 'legend-east',
   },
   {
-    id: '03',
+    id: 'DeathZik',
     portrait: '/legends/legend-03.jpg',
     name: 'Страж перевала',
     description: 'Не отступает перед трудным маршрутом и первым замечает опасность.',
     className: 'legend-south-west',
   },
   {
-    id: '04',
+    id: 'Padlow',
     portrait: '/legends/legend-04.jpg',
     name: 'Повелитель искры',
     description: 'Умеет зажечь интерес к делу и собрать вокруг себя людей.',
@@ -188,27 +188,27 @@ export default function Home() {
                 <Brand />
               </div>
               <span className="cap">ТЕКСТ</span>
-              <span className="active"># общий</span>
-              <span># вечера</span>
-              <span># клипы</span>
+              <span className="active"># room254</span>
+              <span># showtimes</span>
+              <span># festivaloflegends2023</span>
               <span className="cap gap">ГОЛОС</span>
-              <span>Лобби</span>
-              <span>Тихая комната</span>
+              <span>Lost in Azeroth</span>
+              <span>Утроба</span>
             </div>
             <div className="chat">
               <div className="title display"># общий</div>
               <div className="msg">
                 <div className="ava ava-red" />
                 <div>
-                  <div className="who">Участник 1</div>
-                  <div className="say">Кто сегодня на связи?</div>
+                  <div className="who">Maxyta</div>
+                  <div className="say">Кто сегодня руинит?</div>
                 </div>
               </div>
               <div className="msg">
                 <div className="ava ava-blue" />
                 <div>
-                  <div className="who">Участник 2</div>
-                  <div className="say">Я уже в голосовом, заходи.</div>
+                  <div className="who">Pastula</div>
+                  <div className="say">Я на мид</div>
                 </div>
               </div>
               <div className="voice">В голосовом сейчас: 4</div>
